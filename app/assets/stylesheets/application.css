@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+
+
+.container {
+  margin-top: 20px;
+}
+
+.answer {
+  background-color: rgb(255, 255, 197);
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.form {
+  margin-top: 0;
+}
+
+.box {
+  height: 30px;
+  width: 50%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.form-control {
+  border-radius: .25em 0 0 .25em !important;
+}
+
+.btn {
+  border-radius: 0 .25em .25em 0 !important;
+}
